@@ -1,0 +1,10 @@
+# JSON 数据文件
+*.json
+
+# Playwright MCP 生成的文件
+.playwright-mcp/
+
+# 其他可能的临时文件
+*.tmp
+*.log
+*.bak
